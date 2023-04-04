@@ -16,8 +16,15 @@ Next, we would have to find out where the authors of the paper obtained their da
 
 Once we have found the author’s sources, we would have to collect the same datasets and reproduce their research. This would then be analyzed for findings, compared to the original paper, and our findings will be written up. 
 
-The main components we would have to implement are: 
+Because this peper uses publicly available models, there isn't much to implement. We would have to: 
 
+- Setup environments for each model usinc Conda
+- Setup the original repository
+- Import the publically available dataset
+
+When it comes to data collection for analysis, we need human annotators to review the outputs of each respective model on the axis' of gender, skin tone, and ethnicity.
+
+This project idea is simple to reproduce, but allows for insight on a socially important topic. All the sources and work are publically available as the authours seem to have taken great care in ensuring the ease of reproducability in their work. This also means that our stretch goals are more achievable. 
 
 ## Stretch Goals
 
