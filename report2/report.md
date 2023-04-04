@@ -9,6 +9,7 @@
   - Would be fun to see what kinds of summaries are generated
 - Cons
   - Consists of four non-trivial components, might be a big undertaking to implement completely
+  - Usefulness is a little questionable: Procedures are already written to be pretty concise, and it might not be desirable to only focus on a few of the entities in the procedure
 
 ### K-means Translator
 test
