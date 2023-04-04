@@ -10,6 +10,8 @@
 - Cons
   - Consists of four non-trivial components, might be a big undertaking to implement completely
   - Usefulness is a little questionable: Procedures are already written to be pretty concise, and it might not be desirable to only focus on a few of the entities in the procedure
+  - Authors of the paper are from China, so it would be hard to reach out for help if needed
+  - Codebase has minimal documentation, so difficult to understand what is going on code-wise
 
 ### K-means Translator
 test
