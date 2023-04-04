@@ -18,7 +18,7 @@ Once we have found the author’s sources, we would have to collect the same dat
 
 Because this peper uses publicly available models, there isn't much to implement. We would have to: 
 
-- Setup environments for each model usinc Conda
+- Setup environments for each model using Conda
 - Setup the original repository
 - Import the publically available dataset
 
