@@ -1,6 +1,6 @@
 # nlp-capstone
 2023 CSE 481N Project
-## Team Name: Team 4 (tentative)
+## Team Name: Paul G Allen's Card (Team 4)
 ## Members: 
 
 Eric Yeh
