@@ -1,7 +1,7 @@
 # nlp-capstone
 2023 CSE 481N Project
-
-## members: 
+## Team Name: Team 4 (tentative)
+## Members: 
 
 Eric Yeh
 
