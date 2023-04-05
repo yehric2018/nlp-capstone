@@ -16,8 +16,17 @@
 ### K-means Translator
 test
 
-### LFD Summarizer
-test
+### Logical Fallacy Detection
+Pros:
+- Codebase with some of the saved models (particularly the ones that performed the best) and datasets
+- Logical fallacy detection seems useful to the world, especially in the context of combating climate change misinformation (which the paper has a focus on)
+- The NLP task described in the paper doesn’t seem extremely complicated/extremely difficult to understand.
+
+Cons:
+- Codebase doesn’t have all of the saved models
+  - Some of the models not saved are large language models that may be difficult to access/finetune
+  - Some of the current stretch goals involve models such as GPT-4 that also may be difficult to access/finetune
+-	Codebase not super-well-documented (there’s a little bit of documentation)
 
 ### Entigen Summarizer
 Pros: 
