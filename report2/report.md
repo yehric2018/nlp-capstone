@@ -15,7 +15,7 @@
 
 ### K-means Translator
 Pros:
-- Large public codebase, as well as another public codebase for the algorithm the paper is building off of (in English, includes example invokations)
+- Large public codebase, as well as another public codebase for the algorithm the paper is building off of (in English, includes example invocations)
 - Seems to be of a good scope, involves implementing differnt architectures, but they aren't too complicated
 - Improvements to machine translation tasks are of use to the wider world, verifying such an improvement is usefull
 - Lots of room for futher investigation, could propose our own architecture changes or tests
