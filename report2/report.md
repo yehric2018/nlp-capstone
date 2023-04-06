@@ -14,7 +14,17 @@
   - Codebase has minimal documentation, so difficult to understand what is going on code-wise
 
 ### K-means Translator
-test
+Pros:
+- Large public codebase, as well as another public codebase for the algorithm the paper is building off of (in English, includes example invokations)
+- Seems to be of a good scope, involves implementing differnt architectures, but they aren't too complicated
+- Improvements to machine translation tasks are of use to the wider world, verifying such an improvement is usefull
+- Lots of room for futher investigation, could propose our own architecture changes or tests
+
+Cons:
+- Amount of work required is highly contingent on the difficulty of getting a working codebase (from them or from ourselves)
+- Requires understanding the technical details of a not easy to understand paper
+- Could be difficult to identify cause if results fail to replicate
+- requires a moderate amount of computational power, I think its within our constraints but is something to worry about a bit. 
 
 ### Logical Fallacy Detection
 Pros:
