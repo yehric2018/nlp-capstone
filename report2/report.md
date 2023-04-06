@@ -51,7 +51,13 @@ Cons:
 - reliant on human visual analysis
 
 ## Deep Dive
-We have chosen to look more closely at
+We have chosen to look more closely at the Logical Fallacy Detection project. The github repo is located here: https://github.com/causalNLP/logical-fallacy
 
-## Lecture Topic
+This repo has two unclosed issues, one regarding the reproducability and the other one regarding accessibility to the models. However, we should be able to contact the authors of the paper to get more details on resolving these if they come up.
+
+The documentation for the codebase is not super detailed as well, however most of the other codebases suffer this same issue.
+
+## Lecture Topic Ideas
+- Fine tuning of large language models
+- NLI based Models
 
