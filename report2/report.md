@@ -1,5 +1,7 @@
 # Report 2
 
+Authors: Eric Yeh, Charles Immendorf, Alex Dundarov, Griffin Golias (Team 4)
+
 ## Pros/Cons
 
 ### ESGS Summarizer
@@ -52,6 +54,10 @@ Cons:
 
 ## Deep Dive
 We have chosen to look more closely at the Logical Fallacy Detection project. The github repo is located here: https://github.com/causalNLP/logical-fallacy
+
+Question: Will using a structure aware model outperform other models in the task of detecting and classifying logical fallacies in climate change claims?
+
+Hypothesis: Because logical fallacies often follow similar structures of reasoning, the paper predicts concludes that introducing structure awareness to the model should make such fallacies easier to classify, as opposed to relying solely on the content of a text, which may not convey the necessary information to make an accurate decision.
 
 This repo has two unclosed issues, one regarding the reproducability and the other one regarding accessibility to the models. However, we should be able to contact the authors of the paper to get more details on resolving these if they come up.
 
