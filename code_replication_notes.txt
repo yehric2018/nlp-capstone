@@ -1,0 +1,6 @@
+This file is for making notes on what problems/solutions people encounter when trying to run the paper's public code base. 
+
+[Griffin]
+To run code from codes_for_models/zeroshot/ the readme specifies you must install efficiency, which is an experimental framework for logging things.
+I encountered an error when using the most up-to-date version, but version 1.0 seems to work.
+Run pip install efficiency==1.0 to install. 
